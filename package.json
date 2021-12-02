@@ -1,0 +1,21 @@
+{
+    "name": "com.dimati.gameevents",
+    "displayName": "Game Events",
+    "version": "0.0.1",
+    "unity": "2018.4",
+    "unityRelease": "",
+    "description": "Game Events based on scriptableObject",
+    "author": "DimaTi <timofeenkodima@gmail.com> (https://github.com/dimaTidev)",
+    "keywords": [
+        "Base"
+    ],
+    "category": "Base",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dimaTidev/GameEvents.git"
+    },
+    "gitDependencies": {
+    },
+    "dependencies": {
+    }
+}

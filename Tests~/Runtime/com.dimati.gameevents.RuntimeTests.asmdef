@@ -1,0 +1,14 @@
+{
+"name" : "com.dimati.gameevents.RuntimeTests",
+ "references": [
+     "com.dimati.gameevents.Runtime"
+ ],
+ "optionalUnityReferences": [],
+ "excludePlatforms": [],
+ "allowUnsafeCode": false,
+ "overrideReferences": false,
+ "precompiledReferences": [],
+ "autoReferenced": true,
+ "defineConstraints": []
+
+}
